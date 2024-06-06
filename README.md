@@ -2,7 +2,7 @@
 
 ## *Abhijeet*
 
-**Bigger Number App** prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen.
+**App Name** 
 
 Time spent: **X** hours spent in total
 
@@ -10,21 +10,15 @@ Time spent: **X** hours spent in total
 
 The following  **required** functionality is completed:
 
-* [x] User can select one of the two button options shown
-* [x] The user sees the background color change based on the number (button) selected
-* [x] The user sees new distinct numbers displayed on the buttons after either button is tapped
+* [x] 
+* [x] 
+* [x] 
 
-THe following **extensions** are implemented:
-
-* [x] Custom colors selected
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/6ndGh6mP2RfYDtLz79/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 ## *Abhijeet*
 
-**App Name** 
+**Profile UI** 
 
 Time spent: **X** hours spent in total
 
